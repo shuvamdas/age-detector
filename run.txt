@@ -1,3 +1,1 @@
-python detect_age.py --image images/adrian.png --face face_detector --age age_detector
-
-cd edu/python/projects/age detector/opencv-age-detection
+python detect_age.py --image images/shuvam1.png --face face_detector --age age_detector
